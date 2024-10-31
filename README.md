@@ -5,9 +5,7 @@
 <img src="https://github.com/SALI-546.png" width="150" height="150" alt="SALIFOU Mouhamadou" style="border-radius:50%">
 
 👨‍💻 **Fullstack Developer | Laravel | React | Next.js | TailwindCSS | PHP | JavaScript**
-
-Passionné par le développement web, je conçois des applications performantes, évolutives et élégantes. J'ai une solide expérience avec des technologies modernes telles que **Laravel** pour le back-end et **React** et **Next.js** pour le front-end. J'aime travailler avec **TailwindCSS** et **Bootstrap** pour concevoir des interfaces utilisateur élégantes et réactives.
-
+"Passionné par le développement web, je crée des applications performantes, évolutives et esthétiques. Fort d'une solide expérience avec des technologies modernes comme Laravel pour le back-end, ainsi que React et Next.js pour le front-end, j' accorde une attention particulière à l'interface utilisateur en utilisant TailwindCSS et Bootstrap pour des designs élégants et réactifs."
 ---
 
 ## 🛠️ **Compétences Techniques**

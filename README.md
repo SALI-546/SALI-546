@@ -1,11 +1,12 @@
-#mouhamadousalifou
+# mouhamadousalifou
 
 # 👋 Bonjour, je suis **SALIFOU Mouhamadou** ([@SALI-546](https://github.com/SALI-546)) !
 
 <img src="https://github.com/SALI-546.png" width="150" height="150" alt="SALIFOU Mouhamadou" style="border-radius:50%">
 
-👨‍💻 **Fullstack Developer | Laravel | React | Next.js | TailwindCSS | PHP | JavaScript**
-"Passionné par le développement web, je crée des applications performantes, évolutives et esthétiques. Fort d'une solide expérience avec des technologies modernes comme Laravel pour le back-end, ainsi que React et Next.js pour le front-end, j' accorde une attention particulière à l'interface utilisateur en utilisant TailwindCSS et Bootstrap pour des designs élégants et réactifs."
+👨‍💻 **Fullstack Developer | Laravel | React | Next.js | TailwindCSS | Node.js | Databases**  
+"Passionné par le développement web, je crée des applications performantes, évolutives et esthétiques. Fort d'une solide expérience avec des technologies modernes comme Laravel pour le back-end, ainsi que React et Next.js pour le front-end, j'accorde une attention particulière à l'interface utilisateur en utilisant TailwindCSS et Bootstrap pour des designs élégants et réactifs. Je maîtrise également Node.js pour des applications back-end robustes, avec une expertise sur les bases de données relationnelles et NoSQL."
+
 ---
 
 ## 🛠️ **Compétences Techniques**
@@ -15,6 +16,7 @@
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -22,13 +24,18 @@
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+### **Bases de Données :**
+
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 ### **Outils et Plateformes :**
 
--
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
--
 
 ---
 
@@ -39,15 +46,20 @@ Application complète de gestion de commerce en ligne, intégrant un back-end La
 
 - Technologies utilisées : Laravel, React, TailwindCSS, MySQL.
 
-### **2. [Portfolio-SALIFOU-Mouhamadou ](https://github.com/SALI-546/Portfolio-SALIFOU-Mouhamadou)**  
+### **2. [Portfolio-SALIFOU-Mouhamadou](https://github.com/SALI-546/Portfolio-SALIFOU-Mouhamadou)**  
 Mon portfolio personnel réalisé avec **Astro** et hébergé sur **Vercel** pour présenter mes projets et compétences.
 
-- Technologies utilisées : astro, Js, TailwindCSS, Vercel.
+- Technologies utilisées : Astro, JavaScript, TailwindCSS, Vercel.
 
 ### **3. [Système étudiant Esdam](https://github.com/SALI-546/Student-System-Esdam)**  
-Un système de gestion des étudiants de l'école esdam  simple développé en PHP. 
+Un système de gestion des étudiants de l'école Esdam simple développé en PHP. 
 
 - Technologies utilisées : PHP, Bootstrap, MySQL.
+
+### **4. [Gestionnaire de tâches Node.js](https://github.com/SALI-546/task-manager-nodejs)**  
+Application RESTful développée avec Node.js et MongoDB pour gérer les tâches personnelles.
+
+- Technologies utilisées : Node.js, Express.js, MongoDB.
 
 ---
 
